@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/user/stringutil"
+	"github.com/d100972/stringutil"
 )
 
 func main() {
